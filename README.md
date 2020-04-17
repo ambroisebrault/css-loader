@@ -1,2 +1,2 @@
-# css-loader
-CSS Loader
+# CSS-Loader
+HTML Loaders using CSS animation
